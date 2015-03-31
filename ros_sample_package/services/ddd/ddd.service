@@ -1,0 +1,8 @@
+name: ddd
+description: 
+author: 
+priority: 10000
+interactions: ddd.interactions
+parameters: ddd.parameters
+launcher_type: ros_launcher
+launcher: ddd.launcher
