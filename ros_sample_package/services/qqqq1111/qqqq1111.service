@@ -1,0 +1,8 @@
+name: qqqq1111
+description: 
+author: 
+priority: 10000
+interactions: qqqq1111.interactions
+parameters: qqqq1111.parameters
+launcher_type: ros_launcher
+launcher: qqqq1111.launcher
