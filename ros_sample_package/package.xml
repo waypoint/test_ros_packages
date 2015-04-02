@@ -46,5 +46,5 @@
     <rocon_app>rapps/video_teleop/video_teleop.rapp</rocon_app>
     <rocon_app>rapps/turtle_stroll/turtle_stroll.rapp</rocon_app>
     <concert_service>services/turtle_pond/turtle_pond.service</concert_service>
-  <concert_service>services/aaaa0000/aaaa0000.service</concert_service><concert_service>services/aaaa0001/aaaa0001.service</concert_service></export>
+  <concert_service>services/aaaa0000/aaaa0000.service</concert_service><concert_service>services/aaaa0001/aaaa0001.service</concert_service><concert_service>services/qqqq1111/qqqq1111.service</concert_service></export>
 </package>
