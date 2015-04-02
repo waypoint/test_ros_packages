@@ -1,0 +1,8 @@
+name: wwww1111
+description: 
+author: 
+priority: 10000
+interactions: wwww1111.interactions
+parameters: wwww1111.parameters
+launcher_type: ros_launcher
+launcher: wwww1111.launcher
