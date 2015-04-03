@@ -1,0 +1,8 @@
+name: yes111
+description: yes space ok
+author: 
+priority: 10000
+interactions: yes111.interactions
+parameters: yes111.parameters
+launcher_type: ros_launcher
+launcher: yes111.launcher

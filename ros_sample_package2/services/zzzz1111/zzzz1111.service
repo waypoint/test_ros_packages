@@ -1,0 +1,8 @@
+name: zzzz1111
+description: descr
+author: 
+priority: 10000
+interactions: zzzz1111.interactions
+parameters: zzzz1111.parameters
+launcher_type: ros_launcher
+launcher: zzzz1111.launcher
