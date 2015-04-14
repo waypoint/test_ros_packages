@@ -1,0 +1,8 @@
+name: hic0
+description: hic00
+author: eskim
+priority: 10000
+interactions: hic0.interactions
+parameters: hic0.parameters
+launcher_type: ros_launcher
+launcher: hic0.launcher
