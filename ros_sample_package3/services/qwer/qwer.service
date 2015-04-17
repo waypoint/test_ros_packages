@@ -1,0 +1,8 @@
+name: qwer
+description: ""
+author: ""
+priority: 10000
+interactions: turtle_concert33/qwer
+parameters: turtle_concert33/qwer
+launcher_type: roslaunch
+launcher: turtle_concert33/qwer
