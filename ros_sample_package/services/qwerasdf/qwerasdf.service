@@ -1,0 +1,8 @@
+name: qwerasdf
+description: ""
+author: ""
+priority: 10000
+interactions: turtle_concert/qwerasdf
+parameters: turtle_concert/qwerasdf
+launcher_type: roslaunch
+launcher: turtle_concert/qwerasdf

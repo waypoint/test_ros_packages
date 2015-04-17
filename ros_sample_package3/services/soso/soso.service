@@ -1,0 +1,8 @@
+name: soso
+description: ""
+author: ""
+priority: 10000
+interactions: turtle_concert33/soso
+parameters: turtle_concert33/soso
+launcher_type: roslaunch
+launcher: turtle_concert33/soso
