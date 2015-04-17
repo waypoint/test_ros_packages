@@ -1,0 +1,8 @@
+name: soso22
+description: ""
+author: ""
+priority: 10000
+interactions: turtle_concert_second_version/soso22
+parameters: turtle_concert_second_version/soso22
+launcher_type: roslaunch
+launcher: turtle_concert_second_version/soso22

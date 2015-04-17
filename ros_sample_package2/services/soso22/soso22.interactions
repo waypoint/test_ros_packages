@@ -1,0 +1,18 @@
+- _id: 54d1990eff2289862cc6c66c
+  display_name: Pickup Delivery Order
+  name: Pickup Delivery Order
+  role: Role
+  compatibility: "rocon:/*/*/indigo/chrome|firefox"
+  description: Delivery from pickup to a desk
+  max: -1
+  remappings:
+    - remap_from: send_order
+      remap_to: /zzz
+    - remap_from: delivery_status
+      remap_to: /delivery_status
+    - remap_from: tables
+      remap_to: /tables
+  parameters:
+    rosbridge_address: ""
+    rosbridge_port: ""
+    discard_btn_name: ""
