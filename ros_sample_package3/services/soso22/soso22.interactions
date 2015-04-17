@@ -1,0 +1,19 @@
+- _id: 54d1990eff2289862cc6c66c
+  display_name: Pickup Delivery Order
+  key: "web_app(http://__WEBSERVER_ADDRESS__/concert_common_web_interface/pickup_delivery_order/index.html)"
+  name: Pickup Delivery Order
+  role: Role
+  compatibility: "rocon:/*/*/indigo/chrome|firefox"
+  description: Delivery from pickup to a desk
+  max: -1
+  remappings:
+    - remap_from: send_order
+      remap_to: /send_order
+    - remap_from: delivery_status
+      remap_to: /delivery_status
+    - remap_from: tables
+      remap_to: /tables
+  parameters:
+    rosbridge_address: ""
+    rosbridge_port: ""
+    discard_btn_name: ""
