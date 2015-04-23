@@ -1,0 +1,8 @@
+name: branch-test0
+description: ""
+author: ""
+priority: 10000
+interactions: turtle_concert/branch-test0
+parameters: turtle_concert/branch-test0
+launcher_type: roslaunch
+launcher: turtle_concert/branch-test0
