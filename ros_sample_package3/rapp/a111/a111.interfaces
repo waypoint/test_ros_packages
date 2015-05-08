@@ -1,0 +1,9 @@
+subscribers:
+  - name: "11"
+    type: "22"
+publishers:
+  - name: "22"
+    type: "33"
+services: []
+action_clients: []
+action_servers: []
