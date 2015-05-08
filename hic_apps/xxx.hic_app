@@ -1,0 +1,18 @@
+interfaces:
+  subscribers:
+    - name: aa
+      type: bb
+  publishers: []
+  services: []
+  action_clients: []
+  action_servers:
+    - name: cc
+      type: dd
+    - name: dd
+      type: ee
+name: "1"
+compatibility: "2"
+defaults:
+  display: "3"
+  description: "4"
+  max: "5"
