@@ -1,0 +1,9 @@
+subscribers:
+  - name: aa
+    type: bb
+publishers:
+  - name: cc
+    type: ddd
+services: []
+action_clients: []
+action_servers: []
