@@ -1,0 +1,6 @@
+display: b
+description: c
+compatibility: d
+parent_name: e
+interfaces: a.interfaces
+launch: a.launch
